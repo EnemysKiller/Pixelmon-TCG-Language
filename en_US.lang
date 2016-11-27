@@ -25,6 +25,7 @@ battleRule.instruction=Right click a BattleBox to change the battle rule of the 
 battleRule.setRule=Set rules for the BattleBox
 battleRule.deckSize=Deck size
 battleRule.prizeCount=Prize count
+battleRule.timeLimit=Time limit (s)
 battleRule.setStartingCommands=Set commands when battle started
 battleRule.setEndingCommands=Set commands when battle ended
 battleRule.emptyCommands=No commands set
