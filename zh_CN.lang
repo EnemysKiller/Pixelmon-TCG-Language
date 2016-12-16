@@ -12,8 +12,8 @@ item.itemDeck.name=平台座
 item.itemBoard.name=游戏板
 item.itemSoundmod.name=音效MOD
 
-item.cardPrinter.name=卡牌打印机
-item.battleController.name=精灵宝可梦卡牌对战盒4000
+tile.cardPrinter.name=卡牌打印机
+tile.battleController.name=精灵宝可梦卡牌对战盒4000
 item.rulebook.name=卡牌规则书
 item.battleRule.name=卡牌对战规则
 

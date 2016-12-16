@@ -15,11 +15,11 @@ item.deck.locked=gesperrt
 item.board.name=Spielfeld
 item.sound_mod.name=Klang-Mod
 
-item.card_printer.name=Kartendrucker
 item.battle_controller.name=PixelmonTCG KampfBox 4000
 item.rulebook.name=TCG Regelbuch
-item.battle_rule.name=TCG Kampfregeln
-item.battle_spectator.name=Kampf TV
+tile.card_printer.name=Kartendrucker
+tile.battle_rule.name=TCG Kampfregeln
+tile.battle_spectator.name=Kampf TV
 
 battleRule.instruction=Rechtsklicke eine KampfBox, um ihre Regeln zu ändern!
 battleRule.setRule=Setze Regeln für die KampfBox

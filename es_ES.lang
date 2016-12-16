@@ -15,11 +15,11 @@ item.deck.locked=Cerrado
 item.board.name=Tablero de Juego
 item.sound_mod.name=Sound Mod
 
-item.card_printer.name=Impresor de Cartas
 item.battle_controller.name=PixelmonJCC Caja de Combate 4000
 item.rulebook.name=Libro de Reglas JCC
-item.battle_rule.name=Reglas de Batalla JCC
-item.battle_spectator.name=TV de Batalla
+tile.card_printer.name=Impresor de Cartas
+tile.battle_rule.name=Reglas de Batalla JCC
+tile.battle_spectator.name=TV de Batalla
 
 battleRule.instruction=¡Clic derecho en una Caja de Combate para cambiar las reglas del combate!
 battleRule.setRule=Establece las reglas de la Caja de Combate

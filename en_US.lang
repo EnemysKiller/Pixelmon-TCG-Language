@@ -15,11 +15,11 @@ item.deck.locked=locked
 item.board.name=Game Board
 item.sound_mod.name=Sound Mod
 
-item.card_printer.name=Card Printer
-item.battle_controller.name=PixelmonTCG BattleBox 4000
 item.rulebook.name=TCG Rulebook
 item.battle_rule.name=TCG Battle Rule
-item.battle_spectator.name=Battle TV
+tile.card_printer.name=Card Printer
+tile.battle_controller.name=PixelmonTCG BattleBox 4000
+tile.battle_spectator.name=Battle TV
 
 battleRule.instruction=Right click a BattleBox to change the battle rule of the box!
 battleRule.setRule=Set rules for the BattleBox

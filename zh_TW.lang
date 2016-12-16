@@ -1,20 +1,20 @@
 gui.guiPack.title=You opened a pack!
 
-ItemGroup.tabTCG1=Pixelmon TCG
+itemGroup.tabTCG1=Pixelmon TCG
 
-Item.card.name=Pixelmon卡牌
-Item.pack.name=補充包
-Item.binder.name=卡套
-Item.coin_set.name=寶可夢硬幣
-Item.card_back.name=牌背
-Item.deck.name=卡組持有人
-Item.board.name=遊戲桌布
-Item.sound_mod.name=音效Mod
+item.card.name=Pixelmon卡牌
+item.pack.name=補充包
+item.binder.name=卡套
+item.coin_set.name=寶可夢硬幣
+item.card_back.name=牌背
+item.deck.name=卡組持有人
+item.board.name=遊戲桌布
+item.sound_mod.name=音效Mod
 
-Item.card_printer.name=卡片印表機
-Item.battle_controller.name=Pixelmon TCG對戰盒 4000
-Item.rulebook.name=TCG規則手冊
-Item.battle_rule.name=TCG對戰規則
+tile.card_printer.name=卡片印表機
+tile.battle_controller.name=Pixelmon TCG對戰盒 4000
+item.rulebook.name=TCG規則手冊
+item.battle_rule.name=TCG對戰規則
 
 battleRule.instruction=滑鼠右鍵點擊一個對戰盒來改變對戰規則
 battleRule.setRule=設定一個對戰盒的規則
