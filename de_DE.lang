@@ -243,14 +243,14 @@ attack.effect.switch.byopp=Wähle neues aktives Pokemon
 // Ability Effects
 ability.pokemonpower=Pokémon Power
 ability.pokemonbody=Pokémon Body
-ability.damageswap.selector.from=Schaden entfernen von
-ability.damageswap.selector.to=Schaden legen auf
+ability.damageswap.selector.from=Schadensmarken entfernen von
+ability.damageswap.selector.to=Schadensmarken legen auf
 ability.buzzap.selector.chooseenergy=Wähle Energie-Typ
 ability.buzzap.selector.chooseattach=Wähle ein Pokemon zum Anlegen
 ability.raindance.selector.chooseattach=Wähle Pokemon zum Anlegen der Wasser-Energie
 ability.energytransfer.selector.from=Blatt-Energie entfernen von
 ability.energytransfer.selector.to=Blatt-Energie anlegen an
-ability.shift.selector.change=Typ ändern auf
+ability.shift.selector.change=Typ ändern zu
 ability.heal.selector.pokemon=Heile 10 Schaden
 
 // Trainer Effects
